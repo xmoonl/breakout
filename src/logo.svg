@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50">
+    <rect width="50" height="50" />
+    <circle fill="white" r="1.5" cx="20" cy="30" />
+    <rect width="15" height="2" fill="#9c9c9c" x="17" y="40" />
+    <g fill="orange" stroke="black">
+        <rect width="10" height="4" />
+        <rect width="10" height="4" x="10" />
+        <rect width="10" height="4" x="20" />
+        <rect width="10" height="4" x="30" />
+        <rect width="10" height="4" x="40" />
+    </g>
+    <g fill="blue" stroke="black">
+        <rect width="10" height="4" y="4" />
+        <rect width="10" height="4" y="4" x="10" />
+        <rect width="10" height="4" y="4" x="30" />
+        <rect width="10" height="4" y="4" x="40" />
+    </g>
+    <g fill="magenta" stroke="black" >
+        <rect width="10" height="4" y="8" />
+        <rect width="10" height="4" y="8" x="10" />
+        <rect width="10" height="4" y="8" x="40" />
+    </g>
+    <g fill="red" stroke="black" >
+        <rect width="10" height="4" y="12" x="10" />
+        <rect width="10" height="4" y="12" x="40" />
+    </g>
+</svg>
